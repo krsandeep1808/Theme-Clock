@@ -1,6 +1,6 @@
 # Theme-Clock
-# Light theme
+
 <img width="100%" height="auto"  src="Theme Clock/img/img 1.jpg" />
 
-# Dark theme
+<h1>Dark theme</h1>
 <img width="100%" height="auto"  src="Theme Clock/img/img 2.jpg" />
